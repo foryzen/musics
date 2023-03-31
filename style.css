@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    display: inline-block;
+}
+
+td{
+    border: 1px solid black;
+}
+
+.num{
+    padding: 0 3px;
+    text-align: center;
+}
+
+.music_name{
+    padding: 0 5px;
+}
+
+.vocal_name{
+    padding: 0 5px;
+}
+
+.link{
+    padding: 0 10px;
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
